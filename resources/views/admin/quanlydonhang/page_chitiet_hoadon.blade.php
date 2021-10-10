@@ -89,7 +89,7 @@
                                 $total = $price * $qty;
                                 $total_price = $total_price + $total;
                                 ?>
-                                <span class="amount">{{ number_format($total_price) }} VND</span>
+                                <span class="amount">{{ number_format($total) }} VND</span>
                              </td>
                         </tr>
                     @endforeach
