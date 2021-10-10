@@ -1,0 +1,9 @@
+chi tiết kho hàng
+đơn hàng
+chi tiết đơn hàng
+chứuc vụ
+loại sản phẩm
+quyền usẻ
+kỹ thuật canh tác
+đơn vị
+user
