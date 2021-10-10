@@ -81,11 +81,11 @@
                                 @endforeach
                             </td>
                             <td class="left">{{ number_format($get_product->gia_sp)}} VND</td>
-                            <td class="right">{{ $get_product->soluong_sp }}</td>
+                            <td class="right">{{ $data->soluong_sp }}</td>
                             <td class="right">
                                 <?php
                                 $price = $get_product->gia_sp;
-                                $qty = $get_product->soluong_sp;
+                                $qty = $data->soluong_sp;
                                 $total = $price * $qty;
                                 $total_price = $total_price + $total;
                                 ?>
