@@ -56,7 +56,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="cta-content bg-img background-overlay" style="background-image: url({{asset('public/page_admin/img/bg-img/bg-5.jpg')}});">
+                    <div class="cta-content bg-img background-overlay" style="background-image: url({{asset('public/upload_img/slider5.jpg')}});">
                         <div class="h-100 d-flex align-items-center justify-content-end">
                             <div class="cta--text">
                                 <h6>-50%</h6>
