@@ -3,7 +3,7 @@
 @section('content')
 
     <!-- ##### Welcome Area Start ##### -->
-    <section class="welcome_area bg-img background-overlay" style="background-image: url({{asset('public/page_admin/img/bg-img/bg-1.jpg')}});">
+    <section class="welcome_area bg-img background-overlay" style="background-image: url({{asset('public/upload_img/slider1.jpg')}});">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12">
@@ -24,7 +24,7 @@
             <div class="row justify-content-center">
                 <!-- Single Catagory -->
                 <div class="col-12 col-sm-6 col-md-4">
-                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url({{asset('public/page_admin/img/bg-img/bg-2.jpg')}});">
+                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url({{asset('public/upload_img/slider2.jpg')}});">
                         <div class="catagory-content">
                             <a href="{{route('page_shop',[1,1])}}">Mỹ phẩm</a>
                         </div>
@@ -32,7 +32,7 @@
                 </div>
                 <!-- Single Catagory -->
                 <div class="col-12 col-sm-6 col-md-4">
-                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url({{asset('public/page_admin/img/bg-img/bg-3.jpg')}});">
+                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url({{asset('public/upload_img/slider3.jpg')}});">
                         <div class="catagory-content">
                             <a href="{{route('page_shop',[3,1])}}">Trang điểm</a>
                         </div>
@@ -40,7 +40,7 @@
                 </div>
                 <!-- Single Catagory -->
                 <div class="col-12 col-sm-6 col-md-4">
-                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url({{asset('public/page_admin/img/bg-img/bg-4.jpg')}});">
+                    <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url({{asset('public/upload_img/slider4.jpeg')}});">
                         <div class="catagory-content">
                             <a title="Tạm hết hàng" href="#">Chăm sóc tóc</a>
                         </div>
