@@ -1052,8 +1052,8 @@ aside.left-panel {
     .navbar .navbar-brand.hidden {
       display: none; }
   .navbar .menu-title {
-    border-bottom: 1px solid #4e4e52;
-    color: #9496a1;
+    border-bottom: 1px solid #23252d;
+    color: #23252d;
     clear: both;
     display: block;
     font-family: 'Open Sans';
