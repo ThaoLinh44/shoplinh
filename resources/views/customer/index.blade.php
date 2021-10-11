@@ -9,8 +9,8 @@
                 <div class="col-12">
                     <div class="hero-content">
                         <h6></h6>
-                        <h2>C H Ả N H
-                        C O N M E T I C S</h2>
+                        <h2>C H Ả N H <br>
+                        C O N M E T I C S</h2></br>
                         <a href="{{ url('page-shop/9999/1')}}" class="btn essence-btn">Xem ngay</a>
                     </div>
                 </div>
