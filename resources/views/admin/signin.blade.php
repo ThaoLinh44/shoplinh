@@ -34,7 +34,7 @@
                 <div class="col-md-6">
                     <div class="myRightCtn">
                             <div class="box"><header>Welcome!</header>
-                                <p style="font-size: 23px; color: #fff;">Chào mừng bạn đến với Shop Linh</p>
+                                <p style="font-size: 23px; color: #fff;">Chào mừng bạn đến với Chảnh Conmetics</p>
                                 <p>Nếu chưa có tài khoản, vui lòng nhấn vào nút đăng ký bên dưới để tạo tài khoản nhé!</p>
                                 <form method="get" action="{{route('page_signup')}}">
                                     <input type="submit" class="butt_out" value="ĐĂNG KÝ">
