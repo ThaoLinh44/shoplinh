@@ -92,7 +92,7 @@
     box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
     } 
     .myLeftCtn .butt:hover {
-    background: linear-gradient(45deg, #c85bff, #b726ff);
+    background: linear-gradient(45deg, #d68e43, #dc9042f7);
     }
     .myLeftCtn .butt:focus {
     outline: none;
