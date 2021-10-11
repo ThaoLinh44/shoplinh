@@ -18,7 +18,7 @@
     } 
     .myRightCtn {
     position: relative;
-    background-image: linear-gradient(45deg, #59d6bf, #59d6bc);
+    background-image: linear-gradient(45deg, #efb375f7, #efb375f7);
     border-radius: 25px;
     height: 100%;
     padding: 25px;
@@ -81,7 +81,7 @@
     margin-top: 50px;
     } 
     .myLeftCtn .butt {
-    background: linear-gradient(45deg, #59d6bf, #59d6bc);
+    background: linear-gradient(45deg, #efb375f7, #efb375f7);
     color: #fff;
     width: 230px;
     border: none;
