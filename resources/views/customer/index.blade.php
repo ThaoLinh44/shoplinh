@@ -8,7 +8,7 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="hero-content">
-                        <h6>asoss</h6>
+                        <h6>Shopping thôi!!!</h6>
                         <h2> </h2>
                         <a href="{{ url('page-shop/9999/1')}}" class="btn essence-btn">Xem ngay</a>
                     </div>
