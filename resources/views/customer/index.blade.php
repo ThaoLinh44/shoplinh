@@ -3,7 +3,7 @@
 @section('content')
 
     <!-- ##### Welcome Area Start ##### -->
-    <section class="welcome_area bg-img background-overlay" style="background-image: url({{asset('public/upload_img/slider1.jpg')}});">
+    <section class="welcome_area bg-img background-overlay" style="background-image: url({{asset('public/upload_img/slider9.jpg')}});">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12">
@@ -56,7 +56,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="cta-content bg-img background-overlay" style="background-image: url({{asset('public/upload_img/slider5.jpg')}});">
+                    <div class="cta-content bg-img background-overlay" style="background-image: url({{asset('public/upload_img/slider1.jpg')}});">
                         <div class="h-100 d-flex align-items-center justify-content-end">
                             <div class="cta--text">
                                 <h6>-50%</h6>
