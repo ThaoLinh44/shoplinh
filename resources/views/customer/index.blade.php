@@ -8,8 +8,9 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="hero-content">
-                        <h6>C H Ả N H!!!</h6>
-                        <h2> C O N M E T I C S</h2>
+                        <h6></h6>
+                        <h2>C H Ả N H
+                        C O N M E T I C S</h2>
                         <a href="{{ url('page-shop/9999/1')}}" class="btn essence-btn">Xem ngay</a>
                     </div>
                 </div>
