@@ -7,7 +7,7 @@
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12">
-                    <div class="hero-content" style="background-image: url({{asset('public/upload_img/logo.mp4')}})">
+                    <div class="hero-content">
                         <h6></h6>
                         <h2>C H Ả N H <br>
                         C O N M E T I C S</h2></br>
